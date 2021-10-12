@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Block" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Block::Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>block.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Block::Move" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>block.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Block::Pos" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>block.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAIAEAAAAAGACAAAAAAJAAAAABAAAAAAIAAIAAAAA=</HashCode>
+      <FileName>block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAACAAAAAhAAAAIAAAAAAIAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIBABAAAAAAAEAAAAIAAAAAAAAAAAACAAAAAAQMAQA=</HashCode>
+      <FileName>Clock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAsAAAAICAABCAAAAAAIAAApAAAQADAQAEgAAAAAA=</HashCode>
+      <FileName>collision.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAEAAAAAIAAAAECAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAEAAAAAAAAAAAAAQAAAgAAAgAAAAMCQIAgAAAAAA=</HashCode>
+      <FileName>game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIKACAAABiiBAAAEAJAAIAAQBERAQIEIBIImAAIM4E=</HashCode>
+      <FileName>map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player1" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>player1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player2" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>player2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAAgARAAAACAAAAAAAAACAIAgAAAAAA=</HashCode>
+      <FileName>single.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAABABAAAAAAAA=</HashCode>
+      <FileName>sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgEBEAABAIABBAAAAJhAIKAAMQARAEBUIZDAEEgAgAE=</HashCode>
+      <FileName>sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAAIAAABQEAAKAAAAAAACAAAAAAFAAAEAAAAA=</HashCode>
+      <FileName>tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Window" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgBAAAAAAAAAAQAAACAIAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>map.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Level" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAQAIAACgAAAAAAAAAAgACAgAgBBIAAQAAAAAA=</HashCode>
+      <FileName>map.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="TankPtr" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>collision.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Blocks" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>map.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BlockTab" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>map.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="soundsMap" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sound.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
