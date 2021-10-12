@@ -2,6 +2,9 @@
 
 [![](https://img.shields.io/badge/author-@OlaBannan-blue.svg?style=flat)](www.linkedin.com/in/ola-bannan-98a667175)
 
+
+<div align="center"><img src="https://drive.google.com/uc?export=view&id=1aeL_aIJgsSiAIlsslbbz88Sk-EO_TP09" width="500" height="300"/></div>
+
 ## Game's Brief Explanation:
 
 The player, controlling a Tank, must destroy enemy tanks in each level, which enter the playfield from the
