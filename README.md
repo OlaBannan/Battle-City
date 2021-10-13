@@ -35,6 +35,7 @@ Both players have to defend the base together, and if one player shoots the othe
 
 ## Design:
 ### List of files
+**Note:  (^ X : inheritance from Class X)**
 
 - _main.cpp
 Include the main Function.
