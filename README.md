@@ -91,7 +91,7 @@ Base class of the tanks Stores all the data and the function that related to the
 
 ## Adding A Stage To The Game
 
-***You can make your own level!***
+***You can make your own level!*** <br><br>
 To add new level:
 1. make new notebad's file.
 2. rename the file that you created in the first step to be levelN.txt (N is a number > 5 )
@@ -104,8 +104,8 @@ PS: Select consecutive numbers(eg :if you created level7.txt in the past, then y
 6. go to the map.cpp and in the row number ,change the number 5 to --> N that you had choose 
 
 
-PS: you have to save the number of the rows and columns like it is, do not add rows and columns :P
-If as, then I don't know how it'll be shown. :D
+PS: You have to save the number of the rows and columns like it is, do not add rows and columns :stuck_out_tongue_winking_eye:
+If so, I don't know how it will be displayed 	:sweat_smile:
 
 
 ## Main data structures:
@@ -154,9 +154,8 @@ PS: Select consecutive numbers(eg :if you created level7.txt in the past, then y
  to be, you have 12 different styles
 6. go to the map.cpp and in the row number ,change the number 5 to --> N that you had choose 
 
-
-PS: you have to save the number of the rows and columns like it is, do not add rows and columns :P
-If as, then I don't know how it'll be shown. :D
+***PS:*** You have to save the number of the rows and columns like it is, do not add rows and columns :stuck_out_tongue_winking_eye:
+If as, then I don't know how it'll be shown. :laughing:
   
 ## References
 
